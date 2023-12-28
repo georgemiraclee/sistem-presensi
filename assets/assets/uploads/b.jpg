@@ -1,0 +1,17 @@
+<?php
+
+// ambil data file
+$namaFile = $_FILES['berkas']['name'];
+$namaSementara = $_FILES['berkas']['tmp_name'];
+
+// pindahkan file
+$terupload = move_uploaded_file($namaSementara, $namaFile);
+
+if ($terupload) {
+    echo "Upload berhasil!<br/>";
+    echo "Link: <a href='".$namaFile."'>".$namaFile."</a>";
+} else {
+    echo "Upload Gagal!";
+}
+
+?>

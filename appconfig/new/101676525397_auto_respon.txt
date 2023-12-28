@@ -1,0 +1,1 @@
+{"jam_kerja":{"monday":{"libur":"0","to":"17:00","from":"08:00"},"tuesday":{"libur":"0","to":"17:00","from":"08:00"},"wednesday":{"libur":"0","to":"17:00","from":"08:00"},"thursday":{"libur":"0","to":"17:00","from":"08:00"},"friday":{"libur":"0","to":"17:00","from":"08:00"},"saturday":{"libur":"0","to":"17:00","from":"08:00"},"sunday":{"libur":"0","to":"17:00","from":"08:00"}}}

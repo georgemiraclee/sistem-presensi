@@ -1,0 +1,1 @@
+{"jam_kerja":{"monday":{"libur":null,"to":null,"from":null},"tuesday":{"libur":null,"to":null,"from":null},"wednesday":{"libur":null,"to":null,"from":null},"thursday":{"libur":null,"to":null,"from":null},"friday":{"libur":null,"to":null,"from":null},"saturday":{"libur":null,"to":null,"from":null},"sunday":{"libur":null,"to":null,"from":null}}}
